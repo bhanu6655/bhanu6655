@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m G Bhanuprakash
 
-<!--
-**bhanu6655/bhanu6655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate about Full Stack & SQL Development  
+💻 Languages: Python | JavaScript | C++ | SQL  
+🌐 Frontend: React | HTML | CSS  
+🗄 Backend: Node.js | Express.js | MongoDB  
+🔧 Tools: Git | Netlify | Postman
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Projects
+
+- 🎙️ Multilingual Translation Platform – Python, Tkinter, Google API  
+- 📅 React Events Page – Dynamic event display with status handling  
+- 📦 NxtTrendz Clone – Full-featured eCommerce UI with cart functionality
+
+---
+
+### 📫 Connect with me
+
+📧 Email: bhanuprakash7984@gmail.com  
+📱 Phone: +91 9346654012  
+
+
+---
+
+> ⚡ “Code is like humor. When you have to explain it, it’s bad.” — Cory House
