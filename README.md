@@ -4,7 +4,7 @@
 💻 Languages: Python | JavaScript | C++ | SQL  
 🌐 Frontend: React | HTML | CSS  
 🗄 Backend: Node.js | Express.js | MongoDB  
-🔧 Tools: Git | Netlify | Postman
+🔧 Tools: Git | Netlify | 
 
 ---
 
