@@ -25,3 +25,6 @@
 ---
 
 > ⚡ “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+>
+> [Repo](https://github.com/bhanu6655/NxtTrendz) | [Demo](https://trendszcart.ccbp.tech/login)
+
