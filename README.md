@@ -13,7 +13,7 @@
 - 🎙️ Multilingual Translation Platform – Python, Tkinter, Google API  
 - 📅 React Events Page – Dynamic event display with status handling  
 - 📦 NxtTrendz – Full-featured eCommerce UI with cart functionality
--     JobbyApp - Clone of Naukri . users find and search their dream jobs.
+- JobbyApp - Clone of Naukri . users find and search their dream jobs.
 
 ---
 
