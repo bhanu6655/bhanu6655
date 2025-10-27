@@ -1,7 +1,7 @@
 # 👋 Hi, I’m G Bhanuprakash
 
 🎯 Passionate about Full Stack & SQL Development  
-💻 Languages: Python | JavaScript | C++ | SQL  
+💻 Languages: Python | JavaScript | Java | SQL  
 🌐 Frontend: React | HTML | CSS  
 🗄 Backend: Node.js | Express.js | 
 🔧 Tools: Git | Netlify | 
